@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0px;
+   box-sizing: border-box;
+}
+
+html, body{
+    width: fit-content;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+     width: 489px;
+     text-align: center;
+     padding: 0px 35px;
+     
+}
+
+#inputfield{
+    width: 305px;
+    height:50px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addtodo{
+    height: 50px;
+    width: 90px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.to-dos{
+    margin-top: -70px;
+    margin-left: 360px;
+    
+    
+}
+
+.para-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#todocontainer{
+    text-align: center
+}
